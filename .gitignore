@@ -1,0 +1,10 @@
+# Ignore Excel temporary "owner" files (starting with ~$)
+~$*
+
+# Ignore Power BI temporary files
+*.tmp
+*.pbit
+
+# If you decided to keep Spotify/Employee data out:
+Spotify demo.csv
+Employee_Performance_Q1.csv
